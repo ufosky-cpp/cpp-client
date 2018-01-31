@@ -9,8 +9,8 @@ set(CMAKE_TOOLCHAIN_FILE "${CMAKE_CURRENT_SOURCE_DIR}/cmake/toolchain.cmake"
 include(CMakeDependentOption)
 include(HunterGate)
 HunterGate(
-    URL "https://github.com/ruslo/hunter/archive/v0.19.174.tar.gz"
-    SHA1 "712898528fb6dc8532454e2e323404d93a76d8ec"
+    URL "https://github.com/ruslo/hunter/archive/v0.19.240.tar.gz"
+    SHA1 "aa3cd9c45391d8bd14441971b00a43c05d40347c"
     LOCAL
 )
 
